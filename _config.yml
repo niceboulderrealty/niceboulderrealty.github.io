@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+url: "https://niceboulder.com"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -209,4 +209,3 @@ sidebar:
   enable_breadcrumbs_services: true
   enable_sidebar_projects: false
   enable_breadcrumbs_projects: true
-

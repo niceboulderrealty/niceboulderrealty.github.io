@@ -168,7 +168,7 @@ Launch Terminal, `cd niceboulderrealty.github.io` to go to your local copy of th
 
 # More Info
 
-Git is tricky to learn. Here's a [quick reference](https://training.github.com/downloads/github-git-cheat-sheet.pdf) of common commands, or consult [Git's online docs](https://git-scm.com/docs/git#_git_commands) for more advanced features (shouldn't be necessary).
+Git can be tricky to learn. Here's a [quick reference](https://training.github.com/downloads/github-git-cheat-sheet.pdf) of common commands, or consult [Git's online docs](https://git-scm.com/docs/git#_git_commands) for more advanced features (shouldn't be necessary).
 
 # Credits
 

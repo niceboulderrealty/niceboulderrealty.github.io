@@ -164,7 +164,7 @@ Launch Terminal, `cd niceboulderrealty.github.io` to go to your local copy of th
 
 6. Monitor Github's [workflow dashboard](https://github.com/niceboulderrealty/niceboulderrealty.github.io/actions) to confirm the updates are built without errors. If an error occurs, then open the workflow and re-run the failed job. If it continues to fail, then re-run with debug logging and/or fix locally and re-push.
 
-7. Test the public website at [https://niceboulderrealty.com](https://niceboulderrealty.com) to confirm everything works correctly.
+7. Test the public website at [https://niceboulderrealty.github.io](https://niceboulderrealty.github.io) ~~[https://niceboulderrealty.com](https://niceboulderrealty.com)~~ to confirm everything works correctly.
 
 # More Info
 
